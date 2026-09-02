@@ -1,5 +1,9 @@
 **Lab Experiment 4: Bivariate Analysis for Sales Data using Power BI**
 
+**Name : Hemavathy S**
+
+**Regiester Number : 212223230076**
+
 **Aim**
 
 To perform data preparation and bivariate analysis on sales data using Power BI, create DAX measures, visualize relationships between variables, and develop an interactive Bivariate Sales Analysis Report.
@@ -70,6 +74,8 @@ Create the following measures:
     Analyze the results and identify useful business insights.      
 
 **Output**
+
+<img width="1191" height="672" alt="image" src="https://github.com/user-attachments/assets/3e74d1ef-cede-48bf-8e5b-ab8c540bb1e9" />
 
 
 **Result**
